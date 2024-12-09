@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prisvega
-- 👀 I’m interested in FrontEnd and Backend tools
-- 🌱 I’m currently learning FrontEnd and Backend tools
+- 👀 I’m interested in linux deploy
+- 🌱 I’m currently learning Devops tools
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/priscila-vega-delgado-211970aa/
 
 <!---
